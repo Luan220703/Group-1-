@@ -8,4 +8,8 @@ import tensorflow as tf
 model = tf.keras.Sequential([
     ...
 ])
+model.compile(optimize = '', loss = '', metrics = [''])
+model.summary()
+model.fit(x_train, y_train, epochs = integer, batch_size = integer)
+model.evaluate(x_test, y_test)
 ```
