@@ -3,4 +3,9 @@
 ```
 import tensorflow as tf
 ```
-2. Thiết kế model
+2. Thiết kế model:
+```
+model = tf.keras.Sequential([
+    ...
+])
+```
