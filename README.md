@@ -1,2 +1,1 @@
-# Group-1-
-DPL302m - AI17BH2
+# Cách viết code mạng nơ ron
